@@ -1,0 +1,9 @@
+Version 1
+
+4 layers(Batch Norma and Dropous)
+
+  - Make Final output better
+  - Improve criterion
+  
+
+
